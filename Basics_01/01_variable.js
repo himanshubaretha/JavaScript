@@ -15,4 +15,7 @@ accEmail = "hb@gmai.com"
 accPwd = "89595987"
 accCity = "Indore"
 
+// It can genrate a table for visualization
 console.table([acc,accEmail,accPwd,accCity])
+
+
